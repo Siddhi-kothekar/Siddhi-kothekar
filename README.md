@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently working on Smart India Hackathon<br>I am currently looking for plagiarism detector
+I am third year CSE student. Full-Stack Developer . Also building ML based projects
 
 
 # 💻 Tech Stack:
